@@ -55,7 +55,17 @@ body {
     align-items: center;
     color: whitesmoke;
     height: 65px;
-    margin-bottom: 35px;
    background-color: rgba(0, 0, 0, 0.925);
     border: darkgray solid 1px;
+}
+
+/* titre des box */
+
+.title_box {
+    border: 4px solid black;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 10rem;
 }
